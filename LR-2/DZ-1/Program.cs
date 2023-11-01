@@ -39,7 +39,8 @@ namespace DZ_1
                         try
                         {
                             D = b * b - 4 * a * c;
-                            Console.WriteLine("Дискриминант = "+D);
+                            Console.WriteLine($"D={b}*{b}-4*{a}*{c}");
+                            Console.WriteLine("Дискриминант = " + D);
                             if (D < 0)
                             {
                                 throw new Dmin0();
@@ -70,7 +71,11 @@ namespace DZ_1
             {
                 Console.WriteLine("ошибка: файл отсутствует");
             }
-            Console.ReadLine();
+            finally
+            {
+                Console.ReadLine();
+            }
+
         }
     }
 }
