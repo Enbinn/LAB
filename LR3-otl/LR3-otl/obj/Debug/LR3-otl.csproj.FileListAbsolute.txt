@@ -1,0 +1,8 @@
+C:\Users\PC\Desktop\Study\LR3-otl\LR3-otl\bin\Debug\LR3-otl.exe.config
+C:\Users\PC\Desktop\Study\LR3-otl\LR3-otl\bin\Debug\LR3-otl.exe
+C:\Users\PC\Desktop\Study\LR3-otl\LR3-otl\bin\Debug\LR3-otl.pdb
+C:\Users\PC\Desktop\Study\LR3-otl\LR3-otl\obj\Debug\LR3-otl.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Study\LR3-otl\LR3-otl\obj\Debug\LR3-otl.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\Study\LR3-otl\LR3-otl\obj\Debug\LR3-otl.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Study\LR3-otl\LR3-otl\obj\Debug\LR3-otl.exe
+C:\Users\PC\Desktop\Study\LR3-otl\LR3-otl\obj\Debug\LR3-otl.pdb
