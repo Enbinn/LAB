@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ErrorXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Time>2023-12-19T13:16:44.9634797+10:00</Time>
+  <Type>FormatException</Type>
+  <Message>Входная строка имела неверный формат.</Message>
+  <Stack>   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer&amp; number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в DZ_1.Program.Main(String[] args) в C:\Users\PC\Desktop\Study\TestLog\TestLog\Program.cs:строка 99</Stack>
+</ErrorXML>

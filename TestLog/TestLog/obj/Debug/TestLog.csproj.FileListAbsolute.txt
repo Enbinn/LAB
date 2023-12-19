@@ -1,0 +1,8 @@
+C:\Users\PC\Desktop\Study\TestLog\TestLog\bin\Debug\TestLog.exe.config
+C:\Users\PC\Desktop\Study\TestLog\TestLog\bin\Debug\TestLog.exe
+C:\Users\PC\Desktop\Study\TestLog\TestLog\bin\Debug\TestLog.pdb
+C:\Users\PC\Desktop\Study\TestLog\TestLog\obj\Debug\TestLog.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Study\TestLog\TestLog\obj\Debug\TestLog.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\Study\TestLog\TestLog\obj\Debug\TestLog.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Study\TestLog\TestLog\obj\Debug\TestLog.exe
+C:\Users\PC\Desktop\Study\TestLog\TestLog\obj\Debug\TestLog.pdb
